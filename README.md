@@ -201,9 +201,6 @@ Typically, the first three components explain:
 - FRED API Documentation: https://fred.stlouisfed.org/docs/api/
 - Scikit-learn PCA: https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
@@ -211,7 +208,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Created for quantitative finance analysis and research.
+Created by Jaskaran Singh Bagga for quantitative finance analysis and research.
 
 ---
 
